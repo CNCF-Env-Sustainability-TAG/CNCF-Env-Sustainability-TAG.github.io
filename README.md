@@ -9,9 +9,9 @@ We want to raise awareness of environmental sustainability as a key element of o
 
 The TAG Environmental Sustainability Charter further outlines the scope of our group activities as well as the goals and intended deliverables.
 
-Contact
+## Contact
 
-The working group meets every 1st and 3rd Wednesday at 5pm CEST/GMT+2 (8am Pacific) on Zoom
-Meeting notes & agenda can be found here
-Public discussion runs on our mailing list via mailto:cncf-tag-env-sustainability@lists.cncf.io
-Reach us at #tag-environmental-sustainability slack channel on slack.cncf.io
+* The working group meets every 1st and 3rd Wednesday at 5pm CEST/GMT+2 (8am Pacific) on [Zoom](https://zoom.us/my/cncftagenvsustainability)
+* Meeting notes & agenda can be found [here](https://docs.google.com/document/d/1TkmMyXJABC66NfYmivnh7z8Y_vpq9f9foaOuDVQS_Lo/edit#)
+* Public discussion runs on our [mailing list](https://lists.cncf.io/g/cncf-tag-env-sustainability/) via mailto:cncf-tag-env-sustainability@lists.cncf.io
+* Reach us at [#tag-environmental-sustainability](https://cloud-native.slack.com/archives/C03F270PDU6) slack channel on slack.cncf.ioContac
