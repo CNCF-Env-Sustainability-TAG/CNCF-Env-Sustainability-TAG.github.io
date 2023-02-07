@@ -7,7 +7,7 @@ This TAG works with the open source community to define environmental sustainabi
 
 We want to raise awareness of environmental sustainability as a key element of open source development and support projects which foster an understanding of energy drivers. All activities should positively impact the community by changing mindset, increasing efficiency, and putting sustainability on everyone's agenda.
 
-The TAG Environmental Sustainability Charter further outlines the scope of our group activities as well as the goals and intended deliverables.
+The [TAG Environmental Sustainability Charter](charter.md)outlines the scope of our group activities as well as the goals and intended deliverables.
 
 ## Contact
 
