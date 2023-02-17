@@ -16,7 +16,7 @@ The [TAG Environmental Sustainability Charter](charter.md) outlines the scope of
 * [Mailing List](https://lists.cncf.io/g/cncf-tag-env-sustainability/) 
 * [Slack](https://cloud-native.slack.com/archives/C03F270PDU6) #tag-environmental-sustainability
 
-##Conferences where you can find us
+## Conferences where you can find us
 
-* Kubecon EU (https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
-* Sustainability Con at Open Source Summit NA (https://events.linuxfoundation.org/open-source-summit-north-america/about/sustainabilitycon/)
+* Kubecon EU(https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
+* SustainabilityCon at Open Source Summit NA(https://events.linuxfoundation.org/open-source-summit-north-america/about/sustainabilitycon/)
