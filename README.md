@@ -15,6 +15,7 @@ The [TAG Environmental Sustainability Charter](charter.md) outlines the scope of
 * Meeting notes & agenda: found [here](https://docs.google.com/document/d/1TkmMyXJABC66NfYmivnh7z8Y_vpq9f9foaOuDVQS_Lo/edit#)
 * [Mailing List](https://lists.cncf.io/g/cncf-tag-env-sustainability/) 
 * [Slack](https://cloud-native.slack.com/archives/C03F270PDU6) #tag-environmental-sustainability
+* [Github](https://github.com/cncf/tag-env-sustainability)
 
 ## Conferences where you can find us
 
