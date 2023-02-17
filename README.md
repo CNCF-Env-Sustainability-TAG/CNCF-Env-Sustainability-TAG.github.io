@@ -18,5 +18,5 @@ The [TAG Environmental Sustainability Charter](charter.md) outlines the scope of
 
 ## Conferences where you can find us
 
-* Kubecon EU(https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
-* SustainabilityCon at Open Source Summit NA(https://events.linuxfoundation.org/open-source-summit-north-america/about/sustainabilitycon/)
+* [Kubecon EU](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
+* [SustainabilityCon at Open Source Summit NA](https://events.linuxfoundation.org/open-source-summit-north-america/about/sustainabilitycon/)
